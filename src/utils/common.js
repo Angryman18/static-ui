@@ -14,43 +14,25 @@ export const rows = [
     15478256,
     124.0,
     "Delivered",
-    "https://shorturl.at/jYaYc"
+    "https://randomuser.me/api/portraits/men/41.jpg"
   ),
   createData(
     "Jane Cooper",
     48965786,
     365.02,
     "Delivered",
-    "https://shorturl.at/bLZXR"
+    "https://randomuser.me/api/portraits/women/14.jpg"
   ),
   createData(
     "Guy Hawkins",
     78958215,
     45.88,
     "Cancelled",
-    "https://shorturl.at/zpSi2"
+    "https://randomuser.me/api/portraits/men/45.jpg"
   ),
-  createData(
-    "Kristin Watson",
-    20965732,
-    65,
-    "Pending",
-    "https://shorturl.at/yTNQN"
-  ),
-  createData(
-    "Cody Fisher",
-    95715620,
-    545,
-    "Delivered",
-    "https://shorturl.at/heXo4"
-  ),
-  createData(
-    "Savannah Nguyen",
-    78514568,
-    128.2,
-    "Delivered",
-    "https://shorturl.at/XXCYZ"
-  ),
+  createData("Kristin Watson", 20965732, 65, "Pending", "https://randomuser.me/api/portraits/women/42.jpg"),
+  createData("Cody Fisher", 95715620, 545, "Delivered", "https://randomuser.me/api/portraits/men/10.jpg"),
+  createData("Savannah Nguyen", 78514568, 128.2, "Delivered", "https://randomuser.me/api/portraits/women/50.jpg"),
 ];
 
 export const CustomerReviewData = [
